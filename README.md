@@ -1,10 +1,10 @@
 # InfiniteScrollList
 
-
 ## To run locally
 
-npm run start
+1. npm i
+2. npm run start
 
 ## To prepare build
 
-npm run build
+1. npm run build
